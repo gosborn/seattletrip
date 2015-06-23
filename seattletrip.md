@@ -1,6 +1,6 @@
 #things for maggie to do in seattle
 
-##itinerary
+#itinerary
 
 ##thursday
 
@@ -13,14 +13,14 @@
 
 ###things to do, BRAINSTORM  
 
-*xseattle public library  
-*xspace needle/seattle center  
-*xmonorail  
-*emp  
-*shops at og nordstroms  
+* xseattle public library  
+* xspace needle/seattle center  
+* xmonorail  
+* emp  
+* shops at og nordstroms  
 
 
-*xpike place market
+* xpike place market
 	- flying fish
 	- gum wall
 	- pike brewery
@@ -28,7 +28,7 @@
 	- zig zag
 
 
-*waterfront
+* waterfront
 	- go on big ferris wheel
 	x- go to aquarium
 		- see sea otters do sea otter things
@@ -43,7 +43,7 @@
 		- go to beach
 
 
-xkayaking in lake union?
+* xkayaking in lake union?
 	- stalking house hunter man
 	x- gas works park
 	x- see university of washington
@@ -52,7 +52,7 @@ xkayaking in lake union?
 		- go to college inn
 	- fremont troll?
 
-ballard? 
+* ballard? 
 	x- locks
 	x- cute old downtown
 	x- kiss cafe?
