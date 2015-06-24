@@ -1,21 +1,6 @@
-# seattletrip
-
-Skip to content
-This repository  
-Pull requests
-Issues
-Gist
- @gosborn
- Watch 0
-  Star 0
- Fork 0gosborn/seattletrip
- branch: master  seattletrip/seattletrip
-@gosborngosborn 6 minutes ago first commit
-1 contributor
-RawBlameHistory     113 lines (69 sloc)  1.424 kB
 #things for maggie to do in seattle
 
-##itinerary
+#itinerary
 
 ##thursday
 
@@ -26,22 +11,16 @@ RawBlameHistory     113 lines (69 sloc)  1.424 kB
 
 ##friday
 
+###things to do, BRAINSTORM  
+
+* xseattle public library  
+* xspace needle/seattle center  
+* xmonorail  
+* emp  
+* shops at og nordstroms  
 
 
-
-things to do, BRAINSTORM
-
-xseattle public library
-xspace needle/seattle center
-xmonorail
-emp
-shops at og nordstroms
-
-
-
-
-
-xpike place market
+* xpike place market
 	- flying fish
 	- gum wall
 	- pike brewery
@@ -49,7 +28,7 @@ xpike place market
 	- zig zag
 
 
-waterfront
+* waterfront
 	- go on big ferris wheel
 	x- go to aquarium
 		- see sea otters do sea otter things
@@ -64,7 +43,7 @@ waterfront
 		- go to beach
 
 
-xkayaking in lake union?
+* xkayaking in lake union?
 	- stalking house hunter man
 	x- gas works park
 	x- see university of washington
@@ -73,7 +52,7 @@ xkayaking in lake union?
 		- go to college inn
 	- fremont troll?
 
-ballard? 
+* ballard? 
 	x- locks
 	x- cute old downtown
 	x- kiss cafe?
@@ -124,6 +103,3 @@ and other coffee places in the hoods you go
 
 
 
-
-Status API Training Shop Blog About Help
-© 2015 GitHub, Inc. Terms Privacy Security Contact
