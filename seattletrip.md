@@ -42,7 +42,7 @@ Additionally, it's really easy to pop down to the waterfront. There's some major
 - **The First Starbucks!**
 - [Zig Zag](http://zigzagseattle.com/) and [Pike Brewing](http://pikebrewing.com/)
 	- Zig Zag is one of the best cocktail bars on the West Coast, if not the country, and surprisingly non-pretentious. It's tucked away on the Pike Place stairclimb. Pike Brewing is a nice local microbrewery with a pretty big food menu.
-- **Pike Place Chowder** is a good place for some local seafood options, since Ivars and Elliots on the waterfront will be closed (might want to check on that).
+- **Eat some fresh seafood!** [The Athenian](http://www.athenianinn.com/) or **Pike Place Chowder** are good places for local seafood, since Ivars and Elliots on the waterfront will be closed (might want to check on that). 
 - The [Seattle Aquarium](http://www.seattleaquarium.org/) is super close to Pike Place market on the other side of the viaduct. Go see the sea otters and the Giant Pacific Octopus!
 - I've never been on the [Great Wheel](http://seattlegreatwheel.com/), but it looks like fun! Should give great views of the Sound.
 - **Get on a boat!**
@@ -53,39 +53,49 @@ Additionally, it's really easy to pop down to the waterfront. There's some major
 <iframe src="https://www.google.com/maps/d/embed?mid=zokJ-Fhw5B_k.kV8xGUbHm8-k" width="640" height="480"></iframe>
 
 
-
 ###Westlake // Seattle Center
 
+You can connect the sights at the Seattle Center (Space Needle, EMP) to Westlake and downtown with the [Monorail](https://www.youtube.com/watch?v=JjTv_bJRwf4)! None of these things are too far away from Pike Place Market, so you can mix and match.
+
+####Downtown
+
+* **Central Library** 
+	* The main branch of the [Seattle Public Library](https://en.wikipedia.org/wiki/Seattle_Central_Library) is really cool. Best one you'll ever visit.
+* The **First Nordstrom's** is in Westlake Center. 
+	* Go buy something in honor of Seattle's Scandanavian heritage.
+* Some **food** places downtown/near your hotel:
+	* [KukuRuZa Gourment Popcorn](http://www.kukuruza.com/pages/seattle-popcorn): I know you like popcorn- this is supposed to be good
+	* [Mama's Mexican Burritos](http://www.mamas.com) has great burritos.
+	* Shorty's is more of a dive bar, but has hotdogs and pinball!
+
+####Seattle Center
+
+To get from Westlake to Seattle Center, you can take the [monorail!](http://www.seattlemonorail.com/). The stop is at the top of Westlake Center, inside. Costs $2.25 one way and you can pretend like you're in 1962.
+
+* **Space Needle**
+	* You can still pretend it's 1962.
+* **EMP**
+	* This is a super cool music museum (plus scifi stuff I guess). A little expensive, but really interesting.
+* **Chihuly Garden and Glass**
+	* Features work from world-famous glass artist Dale Chihuly, who is local to the area. Super cool, I think you two will really enjoy it. Also is the scene from that one movie where Kiera Knightley doesn't want to be a grownup.
+* **Pacific Science Center**
+	* Used to go [here](http://www.pacificsciencecenter.org/) a lot as a kid. A lot of kid-oriented things, but it's still pretty neat, and they have some cool IMAX movies playing, laser shows, a planetarium and a butterfly house! Maybe you'll see local Bill Nye!
+* In Seattle Center, there's a nice food court called the Armory if you're hungry. Also there's a Dick's near Seattle Center which is a Seattle institution.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=zokJ-Fhw5B_k.kbSfyIcz5t5Q" width="640" height="480"></iframe>
+
+###University District
+
+The main reason I'm including this is because Maggie wants to go kayaking and the weather is going to be really awesome. There are two really easy places to rent kayaks/canoes in the area and some fun places to explore. I've included some other things to do if you head that way.
+
+* **Kayaking in Lake Union**
+	* [Agua Verde](http://aguaverde.com/) is a restauarant/cafe that also rents kayaks on Lake Union! You can grab some lunch and then paddle around. Check out their website for info, I think kayaks aren't reserved, you just go day-of and grab them.
+	* [University of Washington WAC](http://www.washington.edu/ima/wac/) also has canoes and kayaks to rent, and I think their rates are a little cheaper. Don't have to be a Husky to rent them. To get there, you walk through the parking lot by Husky Stadium.
+	* Either option is great. Explore Lake Union or go over to the Arboreteum, try to spot a bald eagle or two.
+* **Gas Works Park**
+	* While exploring Lake Union, you might see a park with some old o
 
 
-* xseattle public library  
-* xspace needle/seattle center  
-* xmonorail  
-* emp  
-* shops at og nordstroms  
-
-
-* xpike place market
-
-
-
-* waterfront
-	- go on big ferris wheel
-	x- go to aquarium
-		- see sea otters do sea otter things
-		- say hi to octopus
-	x- go on boat tour?
-	- go on ferry?
-		- in bainbridge island:
-			- find some restaurant
-	x- eat at ivar's
-	- olympic scuplture garden
-	x- take water taxi to west seattle
-		- go to beach
-
-
-* xkayaking in lake union?
-	- stalking house hunter man
 	x- gas works park
 	x- see university of washington
 		- suzzallo library
@@ -115,7 +125,6 @@ wedding
 sunday?
 brunch with greg
 go to gerg's house?
-
 
 
 
