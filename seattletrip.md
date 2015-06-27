@@ -86,22 +86,27 @@ To get from Westlake to Seattle Center, you can take the [monorail!](http://www.
 
 ###University District
 
-The main reason I'm including this is because Maggie wants to go kayaking and the weather is going to be really awesome. There are two really easy places to rent kayaks/canoes in the area and some fun places to explore. I've included some other things to do if you head that way.
+The main reason I'm including this is because Maggie wants to go kayaking and the weather is going to be really awesome. There are two really easy places to rent kayaks/canoes in the area and some fun places to explore. I've included some other things to do if you head that way - UW has a beautiful campus. Everything is decently walkable, but a little more spread out compared to my other suggestions.
 
 * **Kayaking in Lake Union**
 	* [Agua Verde](http://aguaverde.com/) is a restauarant/cafe that also rents kayaks on Lake Union! You can grab some lunch and then paddle around. Check out their website for info, I think kayaks aren't reserved, you just go day-of and grab them.
 	* [University of Washington WAC](http://www.washington.edu/ima/wac/) also has canoes and kayaks to rent, and I think their rates are a little cheaper. Don't have to be a Husky to rent them. To get there, you walk through the parking lot by Husky Stadium.
 	* Either option is great. Explore Lake Union or go over to the Arboreteum, try to spot a bald eagle or two.
 * **Gas Works Park**
-	* While exploring Lake Union, you might see a park with some old o
+	* While exploring Lake Union, you might see a park with a bunch of industrial looking pipes. Gas Works Park was an old "gassifcation" plant (a real term!), and now is a super cool park. A good target for kayaking, or a nice to place to hang out. It's on the Burke-Gilman Path, so it's easy to walk to.
+* **Seattle Arboreteum**
+	* Probably a bit of stretch to include on a Seattle Trip, but I included a marker by the islands to the north of it that are also fun to explore via kayak/canoe.
+* **University of Washington**
+	* **Suzzallo Library** is really great, and before the Seattle Central Library was built, definitely the coolest library in Seattle. It was built a long time ago, in a collegiate gothic style and has a pretty fantastic reading room to explore- kind of like Hogwarts. Definitely something to include if you find yourself over here.
+	* **The Quad**: every campus has a quad, but UW's is a step above, the cherry trees should still look pretty good this time of year.
+	* **Drumheller Fountain** will hopefully be shooting water into the sky, with Mount Rainier in the background. Come for the views and see where I spent most of my time worrying about organic chemistry.
+	* **The Henry Art Gallery** is on the western side of campus, and usually has some cool exhibits going on. 
+* **The Ave** is where most UW students spend their time wandering around and buying cheap food. There's definitely some cool stuff to check out. I personally spent a lot of time at the **College Inn**.
+* **Ivar's** is a Seattle institution and has great seafood. This is a fantastic place to get some. Definitely recommended. Also, **Northlake Pizza** is a pretty solid pizza place if you're looking for some non-fish food in this area. 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=zokJ-Fhw5B_k.kRiTXCUWqfpQ" width="640" height="480"></iframe>
 
 
-	x- gas works park
-	x- see university of washington
-		- suzzallo library
-		- walk up and down university way (the ave)
-		- go to college inn
-	- fremont troll?
 
 * ballard? 
 	x- locks
