@@ -125,7 +125,7 @@ tuesdays
 
 saturday?
 wedding
-<strong>but what does holly do</strong>
+
 
 sunday?
 brunch with greg
@@ -137,15 +137,14 @@ go to gerg's house?
 bars/restaurants to go to
 
 one of the elysians?
-zig zag cafe
+
 DIM SUM
 kiss cafe?
 ivars
-another seafood place?
+
 one of the dicks
 SOME REAL PHO
-starbucks
-and other coffee places in the hoods you go
+
 
 
 
